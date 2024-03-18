@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EqJmj25zEnBloXEUfjT5OzqIj+SdKhNDKuCrZdObkPJWySGYTg1aahfp3UsccpxYQucaiXU1ojJVLvT1e1uzCw==",
+  "dgSpecHash": "zraf3K0abdxQcQlY9ZSoQDMytP0veZXK/D7z8NpmNuOX+DC3kJPjvAqsQlm7qeJhPBFaCaTK08/hTazmsGpIsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\55169\\tp2\\tp2-stockapp\\StockApp\\StockApp.WebUI\\StockApp.WebUI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\tp2Fecchio\\tp2-stockapp\\StockApp\\StockApp.WebUI\\StockApp.WebUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

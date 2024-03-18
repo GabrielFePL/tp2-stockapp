@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hEjQx3Dip5zqEyH/JOVqI3WarcrtomuCbAy+19i8SZOjBaBNjGWofSS5hTLj5I/eWtQtRAySKVMSrYlAQv9HBQ==",
+  "dgSpecHash": "oZQIbuf35kyIL8lOmN30rzKiac9TkTQdx9bMiS7/GlPBh0tZMEkfy685eUyvW7t10eOp/jva/6aoJMu92a5/uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\55169\\tp2\\tp2-stockapp\\StockApp\\StockApp.Infra.IoC\\StockApp.Infra.IoC.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\tp2Fecchio\\tp2-stockapp\\StockApp\\StockApp.Infra.IoC\\StockApp.Infra.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

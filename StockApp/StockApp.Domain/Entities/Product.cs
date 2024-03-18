@@ -28,6 +28,7 @@ namespace StockApp.Domain.Entities
         public Category Category { get; set; }
         #endregion
 
+        #region Validação
         private void ValidateDomain(string name, string description, decimal price, int stock, string image)
         {
             DomainExceptionValidation.When(string.IsNullOrEmpty(name),
@@ -41,7 +42,16 @@ namespace StockApp.Domain.Entities
 
             DomainExceptionValidation.When(description.Length < 5,
                 "Invalid description, too short, minimum 5 characters");
-        }
 
+            DomainExceptionValidation.When(price < 0,
+                "Invalid price negative value.");
+
+            DomainExceptionValidation.When(stock < 0,
+                "Invalid stock negative value.");
+
+            DomainExceptionValidation.When(image.Lenght > 255,
+                "Invalid image name, too long, maximum 250 characters.");
+            #endregion
+        }
     }
 }
