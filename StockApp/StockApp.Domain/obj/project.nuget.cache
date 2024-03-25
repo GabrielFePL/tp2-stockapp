@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9sIQUG5U/Tba9d3M8apogs5qALFoN4+2tpAfEPw/kF4y2MOuJP+9xPdk7sgHBMGq6qm+oF+H2bZmax3cHwmKg==",
+  "dgSpecHash": "kuSc4wuzaEP7i3hEUm+37w7AlRmRg3cwNMPFk/BIhutt2xafSX2xZqaHjCYW0ABMw36N5gZ2G5PJhVK4/YYOcw==",
   "success": true,
-  "projectFilePath": "C:\\tp\\tp2-stockapp\\StockApp\\StockApp.Domain\\StockApp.Domain.csproj",
+  "projectFilePath": "C:\\tp2gabrielf\\tp2-stockapp\\StockApp\\StockApp.Domain\\StockApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
