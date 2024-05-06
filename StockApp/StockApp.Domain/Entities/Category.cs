@@ -1,10 +1,4 @@
-﻿using Microsoft.VisualBasic;
-using StockApp.Domain.Validation;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using StockApp.Domain.Validation;
 
 namespace StockApp.Domain.Entities
 {
